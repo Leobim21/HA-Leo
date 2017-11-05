@@ -43,7 +43,7 @@ h2{
 	left: 450px;
 }
 </style>
-<h2>The Device has been Turned ON </h2>
+<h2>The Device has been Turned OFF </h2>
 </body>
 </html>
 ";
